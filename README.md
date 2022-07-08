@@ -30,7 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arushi2715&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" alt="arushi2715" /></p>
 </div>
 
-<h2><i>  💬 Connect with me </i></h2>
-<a href=""><img src="https://user-images.githubusercontent.com/78142604/177980324-b8f7039b-56be-4b5c-8e3e-dc70b147e7a2.png" style="width:30px"/></a> &nbsp;
-<a href=""><img src="https://user-images.githubusercontent.com/78142604/177979994-5df26b2f-3d7d-4518-bc4c-338a61597091.png" style="width:30px"/></a>
-
