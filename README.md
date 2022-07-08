@@ -9,7 +9,6 @@
 - I am currently learning and focussing on DSA.
 
 * Check out my articles [here](https://medium.com/@arushiagr1720).
-<br>
 
 <h2><i>📝 Languages and Tools </i></h2>
 <p float="center">
